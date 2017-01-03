@@ -1,0 +1,1 @@
+../../../HYPhotoBrowser/HYPhotoBrowser/MJPhotoBrowser/MJPhoto.h
